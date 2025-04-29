@@ -6,7 +6,7 @@ This repository contains 2 of my works.
 
 The first one is related to calculating the critical index η in crystalline membranes without noise. The final result and some illustrations are posted in the no_noise directory. Since this work has already been published, the working codes are posted without changes. C with OpenMP were used. This task is poorly parallelized on GPUs.
 
-This plot depicts main result of simulations: numeric results of Monte Carlo simulations for bending rigidity exponent (η) with plotted theoretical approximations.
+This plot depicts main result of simulations: numeric results of Fourier Monte Carlo (FMC) simulations for bending rigidity exponent (η) with plotted different theoretical approximations.
 
 ![1](https://github.com/user-attachments/assets/fd7e37c4-f90f-419b-b25a-65d78c9ffd87)
 
